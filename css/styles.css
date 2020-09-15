@@ -364,6 +364,13 @@ img {
     overflow: hidden;
 }
 
+.work__subtitle {
+    text-decoration: none;
+    color: var(--second-color);
+    font-size: var(--h2-font-size);
+    font-weight: var(--font-semi);
+}
+
 .work__img img {
     transition: 1s;
     cursor: pointer;
